@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io
- git push -f git@github.com:MorandiGame/MorandiGame.github.io.git master
+ git push -f git@github.com:MorandiGame/MorandiGame.github.io.git gh-pages
 
 cd -
